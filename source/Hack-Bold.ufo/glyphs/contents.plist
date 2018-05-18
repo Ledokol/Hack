@@ -218,6 +218,8 @@
 	<string>R_caron.glif</string>
 	<key>Rho</key>
 	<string>R_ho.glif</string>
+	<key>ruble</key>
+	<string>ruble.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>Sacute</key>
